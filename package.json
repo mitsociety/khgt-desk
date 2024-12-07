@@ -1,0 +1,15 @@
+{
+  "name": "khgt-calendar",
+  "version": "1.0.0",
+  "description": "Hijri Calendar Electron App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "electron": "^33.2.1",
+    "postcss-loader": "^8.1.1",
+    "tailwindcss": "^3.4.16"
+  }
+}
